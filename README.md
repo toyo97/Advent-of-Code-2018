@@ -6,6 +6,7 @@ Unfortunately I didn't manage to complete the challenge, but maybe in the future
 For those who don't know this code challenge, go visit [https://adventofcode.com/](https://adventofcode.com/).
 
 _WARNING_
+
 The solutions are often not commented and probably always not optimal (in memory usage and execution time), I just wanted the algorithm to be correct, not efficient.
 
 Anyway, I hope this will help.
